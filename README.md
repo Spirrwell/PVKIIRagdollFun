@@ -3,8 +3,6 @@ RagdollFun
 
 Originally named "midas4all", this simple plugin gives you ability to use ragdoll effects on player deaths. You can set different ragdolls for each player, or use a single type for all admins/players.
 
-Special thanks to Spirrwell for finding out how to do this.
-
 Download
 -------
 https://github.com/felis-catus/PVKIIRagdollFun/releases/download/v1.1/PVKIIRagdollFun.zip
